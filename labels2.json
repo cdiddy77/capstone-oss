@@ -1,0 +1,191 @@
+[
+  {
+    "id": "65352c9d75e802be21e6f034",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "app",
+    "color": "orange_light",
+    "uses": 83
+  },
+  {
+    "id": "62dab815c4e7796d16beaffd",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "minor",
+    "color": "orange",
+    "uses": 59
+  },
+  {
+    "id": "62dab815c4e7796d16beb003",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "feature / improvement",
+    "color": "green",
+    "uses": 36
+  },
+  {
+    "id": "62dab815c4e7796d16beb000",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "major",
+    "color": "red",
+    "uses": 36
+  },
+  {
+    "id": "6527e8afb42505d5db1c4b52",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "sidelineREELS",
+    "color": "pink_dark",
+    "uses": 31
+  },
+  {
+    "id": "64f24075442b21613c01df13",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "playlist",
+    "color": "pink_dark",
+    "uses": 28
+  },
+  {
+    "id": "6596d79c87d1af7804875091",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "livestreamer re-design",
+    "color": "sky_dark",
+    "uses": 25
+  },
+  {
+    "id": "62dab815c4e7796d16beaffa",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "generic scoring",
+    "color": "yellow",
+    "uses": 22
+  },
+  {
+    "id": "62f66f66162c856062fe3f46",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "blocker",
+    "color": "red",
+    "uses": 20
+  },
+  {
+    "id": "63f2701d30ac1d150dca8add",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "needs design",
+    "color": "green_light",
+    "uses": 16
+  },
+  {
+    "id": "63f26c581424e86db432d6d7",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "needs repro",
+    "color": "black_light",
+    "uses": 15
+  },
+  {
+    "id": "650203824f86604eea23c45f",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "sportsrecruits",
+    "color": "orange_dark",
+    "uses": 15
+  },
+  {
+    "id": "65241bbdb842746df2db0ea2",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "needs repro",
+    "color": "blue_light",
+    "uses": 12
+  },
+  {
+    "id": "62dab815c4e7796d16beb009",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "metrics",
+    "color": "purple",
+    "uses": 12
+  },
+  {
+    "id": "62dab815c4e7796d16beb006",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "growth",
+    "color": "blue",
+    "uses": 11
+  },
+  {
+    "id": "65ad94020c0aaf4dfd3249a4",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "BB/SB Specific",
+    "color": "lime_dark",
+    "uses": 11
+  },
+  {
+    "id": "6549461c0473cf20bd99432d",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "app-launch-blocker",
+    "color": "green_dark",
+    "uses": 8
+  },
+  {
+    "id": "65ac230d10ad675eef1daae8",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "team settings",
+    "color": "orange_light",
+    "uses": 8
+  },
+  {
+    "id": "646a9bc620bbb921a6dcedec",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "claim rate",
+    "color": "sky",
+    "uses": 8
+  },
+  {
+    "id": "65ac16ef82a2434dafbd4968",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "team page",
+    "color": "blue_dark",
+    "uses": 6
+  },
+  {
+    "id": "6537e7e07a5405b128700535",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "bug/defect",
+    "color": "black",
+    "uses": 4
+  },
+  {
+    "id": "65352caf8e53b61be7c63d00",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "ios-only",
+    "color": "lime",
+    "uses": 4
+  },
+  {
+    "id": "6564cb4f4117cd89714dcf9c",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "weekend issue",
+    "color": "yellow_dark",
+    "uses": 4
+  },
+  {
+    "id": "63f26f6995ab44dd2d24599b",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "partnerships",
+    "color": "purple_light",
+    "uses": 3
+  },
+  {
+    "id": "65b158e6d6551352338f75a0",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "DK",
+    "color": "lime_dark",
+    "uses": 1
+  },
+  {
+    "id": "65352cb745dd2b7086fd565e",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "android-only",
+    "color": "pink",
+    "uses": 1
+  },
+  {
+    "id": "65ac2277f8b8c402920d2a85",
+    "idBoard": "62dab815c4e7796d16beaf9c",
+    "name": "go live",
+    "color": "purple_dark",
+    "uses": 1
+  }
+]
